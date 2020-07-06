@@ -1,12 +1,12 @@
 {
-  "showThemeCredit": true,
+  "showThemeCredit": false,
   "name": "YZv0.0.1",
   "shortDesc": "This is where I work on me.",
   "url": "https://hylia.website",
   "authorEmail": "zhangyilun1337@gmail.com",
   "authorHandle": "",
   "authorName": "Yilun Zhang",
-  "enableThirdPartyComments": false,
+  "enableThirdPartyComments": true,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
   "faviconPath": "/images/favicon.png",
   "maxPostsPerPage": 5
