@@ -6,22 +6,13 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
-      "external": true
-    },
-    {
-      "text": "Example Contact Page",
-      "url": "/contact",
-      "external": false
-    },
-    {
       "text": "Where",
       "url": "/where"
     },
     {
-      "text": "Contact",
-      "url": "/contact"
+      "text": "GitHub",
+      "url": "https://github.com/yzhang1337/blog66",
+      "external": true
     }
   ]
 }
