@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
-title: "Test post #1"
+title: Open Road Baby
+socialImage: ""
 date: 2020-07-06T01:54:13.842Z
 tags:
   - "66"
@@ -8,3 +9,4 @@ tags:
 ---
 this is a test!
 
+![](/images/openroad.jpg)
