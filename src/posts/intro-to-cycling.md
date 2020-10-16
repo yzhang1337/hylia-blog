@@ -7,6 +7,10 @@ tags:
 ---
 ![]()
 
+<p align="center"><iframe width="800" height="515" margin: 0 display:block align=middle src="https://www.youtube.com/embed/4ssLDk1eX9w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+>GCN in general is a good resource for ANY cycling related question or issue you have ever had! 
+
 # Things to consider
 
 * What kind of cycling should do you want to do? Long distance? Short and punchy? Big climbs? Nature or trails? Commuting only? **All of the above?**
@@ -39,33 +43,32 @@ This obviously depends a lot on how much you realistically think you anticipate 
 
 ## Apparel
 
-- Gloves (can be any glove really, I actually use running gloves most of the time)
-- [**Rain Shoe Covers**](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aliexpress.com%2Fi%2F4000705665666.html&psig=AOvVaw3cBlb6kk9qqqI1Xv1Rzygj&ust=1602961005132000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODAxJ_luewCFQAAAAAdAAAAABAD) (never under-estimate the combination of wind + extremities as it will make you feel like you have Raynauds) 
-- Rain Jacket (ideally small + lightweight to pack in the back pocket of your cycling jersey)
+* Gloves (can be any glove really, I actually use running gloves most of the time)
+* **[Rain Shoe Covers](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aliexpress.com%2Fi%2F4000705665666.html&psig=AOvVaw3cBlb6kk9qqqI1Xv1Rzygj&ust=1602961005132000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODAxJ_luewCFQAAAAAdAAAAABAD)** (never under-estimate the combination of wind + extremities as it will make you feel like you have Raynauds) 
+* Rain Jacket (ideally small + lightweight to pack in the back pocket of your cycling jersey)
 
- [*Gillet*](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rapha.cc%2Fgb%2Fen%2Fshop%2Fclassic-gilet-ii%2Fproduct%2FGLT14XX&psig=AOvVaw1JUvZQlFu8Iy8XkkFqFSN7&ust=1602960952714000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjAy4fluewCFQAAAAAdAAAAABAD) is not absolutely necessary, but it is basically a vest and could be nice on long rounds with varying conditions.
-
+ *[Gillet](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rapha.cc%2Fgb%2Fen%2Fshop%2Fclassic-gilet-ii%2Fproduct%2FGLT14XX&psig=AOvVaw1JUvZQlFu8Iy8XkkFqFSN7&ust=1602960952714000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjAy4fluewCFQAAAAAdAAAAABAD)* is not absolutely necessary, but it is basically a vest and could be nice on long rounds with varying conditions.
 
 ### Other stuff
+
 [Ass Saver](https://www.google.com/url?sa=i&url=https%3A%2F%2Fass-savers.com%2Fproducts%2Fass-saver-regular&psig=AOvVaw2iqBBN0tUXBxubY2ksAdfu&ust=1602960547228000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKC388fjuewCFQAAAAAdAAAAABAD) is self-explanatory. Removable plastic insert to have around that can easily be removed just in case you expect some slick roads.
 
----
+- - -
 
 # Last but not least...
+
 ### **Saddle bag**
 
 Bag that goes underneath your seat to carry the following:
 
-- Tube
-- CO2 canister OR mini-air pump
-- Tire levers (2)
-- Bike multi-tool
-- Emergency cash
-- Energy gel (emergency)
-- And whatever else you want to fit in there...
+* Tube
+* CO2 canister OR mini-air pump
+* Tire levers (2)
+* Bike multi-tool
+* Emergency cash
+* Energy gel (emergency)
+* And whatever else you want to fit in there...
 
 ### Tired of stuff YET?
 
 I hope this doesn't give you a sense of anxiety or of friction to get into cycling. Nothing really is necessary except for working legs and the motivation to hop on your bike and explore! These are just a list of things that I wish someone had told me to consider when I was getting into cycling on my own because they were and continue to be the most useful things that I think about whenever packing or planning a cycling trip or long ride and to me, are the essentials.
-
-
